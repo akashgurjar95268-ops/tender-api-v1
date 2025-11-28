@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Construction of new Road in City Sector A",
+    "description": "Tender for road construction using bituminous materials.",
+    "value": "50 Lakh"
+  },
+  {
+    "id": 2,
+    "title": "Supply of IT Equipment and Servers",
+    "description": "Tender for procurement of computer hardware.",
+    "value": "20 Lakh"
+  },
+  {
+    "id": 3,
+    "title": "Renovation and Maintenance of Government Building",
+    "description": "Tender for painting and structural maintenance of the main office building.",
+    "value": "15 Lakh"
+  }
+]
